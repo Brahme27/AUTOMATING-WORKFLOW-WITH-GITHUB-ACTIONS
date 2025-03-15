@@ -1,6 +1,4 @@
-# Python App
-
-This is a simple Python project that includes automated testing and CI/CD using GitHub Actions.
+## This is a simple Python project that includes automated testing and CI/CD using GitHub Actions.
 
 ## 🚀 Features
 - ✅ Runs automated tests using `pytest`
